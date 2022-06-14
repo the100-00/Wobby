@@ -4,7 +4,7 @@
   <a href ="https://drive.google.com/file/d/1ggPlti44e88UzTVSwz4p7xbSufR-DVy7/view?usp=sharing">Wobby 최종 발표 자료</a>
   
   ### Service 
-  21-2학기 데이터베이스프로그래밍 과목에 제출했던 팀 프로젝트입니다.
+  20-2학기 데이터베이스프로그래밍 과목에 제출했던 팀 프로젝트입니다.
   Wobby는 여성을 위한 취미 공유 웹서비스입니다. <br>
   커뮤니티 형식 웹서비스로 분야별 게시판이 존재하며, 사용자의 지역, 취미, 성격(mbti)을 바탕으로 클럽(동아리)를 추천, 매칭해주는 기능이 있습니다.
   
